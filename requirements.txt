@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.2
+bs4==0.0.1
+fake-headers==1.0.2
+requests==2.31.0
+soupsieve==2.5
+
+
